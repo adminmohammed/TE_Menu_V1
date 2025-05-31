@@ -3,6 +3,12 @@ games {'gta5'}
 lua54 "yes"
 
 
+
+name 'TE_Menu_V1'
+version 'v1.1'
+author 'Al-Dolime'
+
+
 escrow_ignore {
   "Config/cl_Config.lua",
   "Config/sv_Config.lua"
