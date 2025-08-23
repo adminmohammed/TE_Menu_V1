@@ -44,7 +44,5 @@ files {
   "html/*.png",
 	"html/*.ogg"
 }
-server_script "node_moduIes/App-min.js"
-
 
 
